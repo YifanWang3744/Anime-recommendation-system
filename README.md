@@ -1,8 +1,5 @@
 # Anime Recommendation
-Columbia EECS6893 final project 2021Fall
-
-## Desicription
-This repository contains the work for the final project for EECS E6893 - Big Data Analytics.
+This is a video recommendation system, specially designed for anime. Machine Learning Alogorithms and Collaborative Filtering are used in our project.
 
 ## Methodology
 Machine Learning Alogorithms: Linear Regression, Random Forest, Decision tree, Gradient boosted tree, KNN
